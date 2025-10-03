@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.log
+
+# --- Ambiente virtual ---
+.env
+.venv
+env/
+venv/
+ENV/
+.venv/
+*.env
+
+# --- Testes/arquivos grandes ---
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.mp3
+*.wav
+*.zip
+*.rar
+
+# --- Arquivos de texto de teste ---
+shared/tst.txt
+shared/teste.mp4
+
+# --- VSCode / IDE ---
+.vscode/
+.idea/
+*.swp
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
